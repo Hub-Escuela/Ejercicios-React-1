@@ -1,4 +1,4 @@
-# Guía básica de REACT
+# Guía básica de REACT-
 
 Con este proyecto podrás aplicar los conocimientos básicos de React en una serie de ejercicios.
 
